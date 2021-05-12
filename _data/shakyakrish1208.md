@@ -1,5 +1,4 @@
-
 name: Krish Shakya
 institution: KIET Group Of Institution
-quote: College is all about life ,knowledge and girls.
+quote: Jio or jeene do
 github_user: shakyakrish1208
